@@ -15,7 +15,7 @@ This README would normally document whatever steps are necessary to get your app
 * To open the website use index.php.
 
 ### Installation ###
- * Usage git clone https://chrisd1999@bitbucket.org/chrisd1999/productshop.git
+ * Usage git clone https://github.com/chrisd1999/productshop.git
  * Database credentials and configuration config/config.php.
 
 ### Who do I talk to? ###
